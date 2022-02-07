@@ -1,3 +1,6 @@
 Hi 
 Hello
 Adding in feature 
+Adding in feature branch
+error in master 
+
